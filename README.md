@@ -2,7 +2,7 @@
 
   🔭 I’m currently a Computer Engineering student
 
-  🌱 I’m currently learning Devolopement
+  🌱 I’m learning Devolopement
   
   👯 I’m looking to collaborate on Open Source, YouTube
   
